@@ -71,7 +71,7 @@ This project presents a machine learning-based approach to classify fungal prote
 
 ## 📌 Declaration
 
-> This project was completed during Het R. Patel’s internship at the Centre for Bioinformatics Research and Technology (CBIRT). All data and results are original and were generated through experimental analysis.
+> This project was completed by Het R. Patel’s during Summerinternship at the Centre for Bioinformatics Research and Technology (CBIRT). All data and results are original and were generated through experimental analysis.
 
 ---
 
